@@ -1,0 +1,43 @@
+# Ignore arquivos de build do .NET
+bin/
+obj/
+out/
+
+# Arquivos do Visual Studio e IDEs
+.vscode/
+.vs/
+.idea/
+
+# Configurações locais de usuários
+*.user
+*.suo
+
+# Logs, banco de dados e backups locais
+*.log
+*.ldb
+*.bak
+*.db
+*.sqlite
+
+# Dependências e pacotes
+node_modules/
+packages/
+*.nupkg
+*.snupkg
+
+# Arquivos de configuração de publicação
+appsettings.Development.json
+appsettings.Local.json
+
+# Docker
+docker-compose.override.yml
+
+# Certificados locais de desenvolvimento
+*.pfx
+*.p12
+
+# Sistema de controle de versão
+.git/
+
+# Arquivos de lock
+project.lock.json
