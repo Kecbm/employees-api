@@ -1,9 +1,11 @@
+using System.ComponentModel.DataAnnotations;
 using EmployeesApi.Enums;
 
 namespace EmployeesApi.Models
 {
     public class FuncionarioModel
     {
+        [Key]
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Sobrenome { get; set; }
