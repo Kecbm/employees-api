@@ -2,7 +2,7 @@
 
 - [Web API com .NET e SQL Server](https://www.youtube.com/watch?v=AqmghDyWCLU)
 
-- **Parei em:** 10:39 min
+- **Parei em:** 25 min
 
 ## Executar o projeto
 
